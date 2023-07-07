@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NEMT Platform](https://nemtplatform.com)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently working with  **MERN STACK**
 
 - 👯 I’m looking to collaborate on [Trip Planner](http://planner.nemtservices.com)
 
