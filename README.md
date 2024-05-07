@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Adnan Javed</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on [NEMT Platform](https://nemtplatform.com)
+- 🔭 I’m currently working on [NEMT Platform](https://nemtplatform.com) and [Ride United SD](https://console.rideunitedsd.com)
 
-- 🌱 I’m currently working with  **MERN STACK**
+- 🌱 I’m currently working with  **MEAN/MERN STACK**
 
-- 👯 I’m looking to collaborate on [Trip Planner](http://planner.nemtservices.com)
+- 👯 I’m looking to collaborate on [Trip Planner/Vehicle Routing](http://nemtplanner.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/soogoodadnan](https://github.com/soogoodadnan)
+- 👨‍💻 All of my projects are available at [https://github.com/soogoodadnan](https://github.com/soogoodadnan) and [Portfolio](https://adnanjaved.me)
 
 - 💬 Ask me about **React, Angular, Android, NextJs, Tailwindcss, ReactNative, Mongoose, AWS Server, Express, KOA, Kotlin, Java, BootStrap, JaveScript, TypeScript, Firebase etc...**
 
-- 📫 How to reach me **adnanjaved9598@gmail.com**
+- 📫 How to reach me **adnanjaved9598@gmail.com** and **https://adnanjaved.me/**
 
-- 📄 Know about my experiences [https://github.com/soogoodadnan](https://github.com/soogoodadnan)
+- 📄 Know about my experiences [https://github.com/soogoodadnan](https://github.com/soogoodadnan) and [Portfolio](https://adnanjaved.me)
 
 - ⚡ Fun fact **I think, I am not Funny.**
 
