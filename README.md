@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Angular, Android, NextJs, Tailwindcss, ReactNative, Mongoose, AWS Server, Express, KOA, Kotlin, Java, BootStrap, JaveScript, TypeScript, Firebase etc...**
 
-- 📫 How to reach me **adnanjaved9598@gmail.com** and **https://adnanjaved.me/**
+- 📫 How to reach me **adnanjaved9598@gmail.com** , **+923005375464** and **https://adnanjaved.me/**
 
 - 📄 Know about my experiences [https://github.com/soogoodadnan](https://github.com/soogoodadnan) and [Portfolio](https://adnanjaved.me)
 
