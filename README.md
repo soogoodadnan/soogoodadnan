@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan Javed</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [NEMT Platform](https://nemtplatform.com) and [Ride United SD](https://console.rideunitedsd.com)
 
